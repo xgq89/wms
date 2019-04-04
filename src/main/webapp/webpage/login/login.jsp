@@ -67,7 +67,7 @@
 				</div>
                   <h4 class="header blue lighter bigger">
                     <i class="ace-icon fa fa-coffee green"></i>
-                	    用户登录1
+                	    用户登录
                   </h4>
                   <div class="space-6"></div>
                       <label class="block clearfix">
